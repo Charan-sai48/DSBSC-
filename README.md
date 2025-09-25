@@ -67,12 +67,15 @@ s=s1-s2;
 subplot(3,1,3);
 plot(t,s);
 ```
+
 Output Graph
 
 <img width="1707" height="1008" alt="AC-2  ss" src="https://github.com/user-attachments/assets/1de2703f-b343-4fe0-8eb7-c3f850b60676" />
 
 
 Tablular Column
+
+![IMG-20250925-WA0014 1](https://github.com/user-attachments/assets/162a5b9e-67a7-44cd-a906-eb24c24a0f54)
 
 
 Result
