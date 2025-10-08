@@ -75,7 +75,8 @@ Output Graph
 
 Tablular Column
 
-![IMG-20250925-WA0014 1](https://github.com/user-attachments/assets/162a5b9e-67a7-44cd-a906-eb24c24a0f54)
+![AC-2 tabulation](https://github.com/user-attachments/assets/d714d584-830a-471d-82c0-236f262727f1)
+
 
 
 Result
